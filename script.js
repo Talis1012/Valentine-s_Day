@@ -56,7 +56,7 @@ noBtn.addEventListener("mouseover", () => {
 //         yesBtn.style.transform = `translate(-50%, -50%) scale(${yesScale})`;
 //     }
 // });
-
+//jhsabdahsdbashdb
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
